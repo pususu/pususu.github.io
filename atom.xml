@@ -2,21 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pususu.github.io</id>
     <title>蒲素的个人博客</title>
-    <updated>2022-04-11T09:20:20.726Z</updated>
+    <updated>2022-04-11T09:41:56.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pususu.github.io"/>
     <link rel="self" href="https://pususu.github.io/atom.xml"/>
-    <subtitle>14岁从初中辍学，曾给安猪做学徒，现任职于开智学堂，在阳志平老师手下工作。</subtitle>
+    <subtitle>蒲素：14岁从初中辍学，脚踏实地的自学者，曾给安猪做学徒，现任职于开智学堂，在阳志平老师手下工作。</subtitle>
     <logo>https://pususu.github.io/images/avatar.png</logo>
     <icon>https://pususu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 蒲素的个人博客</rights>
-    <entry>
-        <title type="html"><![CDATA[给自己的行动方案]]></title>
-        <id>https://pususu.github.io/post/gei-zi-ji-de-xing-dong-fang-an/</id>
-        <link href="https://pususu.github.io/post/gei-zi-ji-de-xing-dong-fang-an/">
-        </link>
-        <updated>2022-04-11T09:12:43.000Z</updated>
-    </entry>
     <entry>
         <title type="html"><![CDATA[如何设计自己的人生发展方案？]]></title>
         <id>https://pususu.github.io/post/ru-he-she-ji-zi-ji-de-ren-sheng-fa-zhan/</id>
