@@ -2,14 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pususu.github.io</id>
     <title>蒲素的个人博客</title>
-    <updated>2022-04-13T03:45:48.174Z</updated>
+    <updated>2022-06-07T10:49:31.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pususu.github.io"/>
     <link rel="self" href="https://pususu.github.io/atom.xml"/>
-    <subtitle>为诗歌和理想活</subtitle>
+    <subtitle>在大自然里和社会中穿梭</subtitle>
     <logo>https://pususu.github.io/images/avatar.png</logo>
     <icon>https://pususu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 蒲素的个人博客</rights>
+    <entry>
+        <title type="html"><![CDATA[生活需要隐喻]]></title>
+        <id>https://pususu.github.io/post/sheng-huo-xu-yao-yin-yu/</id>
+        <link href="https://pususu.github.io/post/sheng-huo-xu-yao-yin-yu/">
+        </link>
+        <updated>2022-04-21T07:12:06.000Z</updated>
+        <content type="html"><![CDATA[<p>生活需要隐喻，你的人生隐喻是什么？</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何设计自己的人生发展方案？]]></title>
         <id>https://pususu.github.io/post/ru-he-she-ji-zi-ji-de-ren-sheng-fa-zhan/</id>
