@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pususu.github.io</id>
     <title>蒲素的个人博客</title>
-    <updated>2022-06-07T10:49:31.554Z</updated>
+    <updated>2022-06-08T02:22:35.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pususu.github.io"/>
     <link rel="self" href="https://pususu.github.io/atom.xml"/>
-    <subtitle>在大自然里和社会中穿梭</subtitle>
+    <subtitle>在大自然和社会中穿梭</subtitle>
     <logo>https://pususu.github.io/images/avatar.png</logo>
     <icon>https://pususu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 蒲素的个人博客</rights>
